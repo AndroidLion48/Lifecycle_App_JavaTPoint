@@ -3,7 +3,8 @@ Activity Lifecycle App
 
 Project displaying the Activity Lifecycle stages with Logcat Logs.
 
-![Screenshot](https://user-images.githubusercontent.com/92341925/200994475-77a4f5e9-7525-46b0-a4b7-af17a689c035.png)
+
+![Screenshot](https://user-images.githubusercontent.com/92341925/201491485-40b49e13-08a1-4629-80eb-8f265215739d.png)
 
 
 Introduction
